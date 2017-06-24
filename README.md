@@ -29,4 +29,4 @@ Open `.gcc-flags.json` file from the Initialized/Imported project and add `-x c+
 }
 ```
 
-[See PlatformIO IDE for Atom] (http://docs.platformio.org/en/latest/ide/atom.html#ide-atom-knownissues-sclarduino-manually)
+[See PlatformIO IDE for Atom ](http://docs.platformio.org/en/latest/ide/atom.html#ide-atom-knownissues-sclarduino-manually)
