@@ -1,17 +1,17 @@
 {
-    "name": "ESP8266-Windsensor",
+    "name": "ESP8266-Wetterstation1",
     "version": "0.0.1",
-    "description": "Windsensor",
-    "author": "swissglider <npm@mailschweiz.com> (https://github.com/swissglider/ESP8266-Windsensor)",
-    "homepage": "https://github.com/swissglider/ESP8266-Windsensor#readme",
+    "description": "Wetterstation1",
+    "author": "swissglider <npm@mailschweiz.com> (https://github.com/swissglider/ESP8266-Wetterstation1)",
+    "homepage": "https://github.com/swissglider/ESP8266-Wetterstation1#readme",
     "scripts": {},
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/swissglider/ESP8266-Windsensor.git"
+        "url": "git+https://github.com/swissglider/ESP8266-WWetterstation1.git"
     },
-    "keywords": ["arduino", "esp8266", "Sensor", "Windsensor", "WifiManager", "OTA"],
+    "keywords": ["arduino", "esp8266", "Sensor", "Wetterstation", "WifiManager", "OTA"],
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/swissglider/ESP8266-Windsensor/issues"
+        "url": "https://github.com/swissglider/ESP8266-Wetterstation1/issues"
     }
 }
