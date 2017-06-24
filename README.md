@@ -18,13 +18,15 @@ Author: [==> swissglider](https://github.com/swissglider)
 ### Additional informations:
 #### How to switch from ino to cpp
 Open `.gcc-flags.json` file from the Initialized/Imported project and add `-x c++` flag at the beginning of the value of `gccDefaultCppFlags` field:
-`{
+```json
+{
   "execPath": "...",
   "gccDefaultCFlags": "...",
   "gccDefaultCppFlags": "-x c++ -fsyntax-only ...",
   "gccErrorLimit": 15,
   "gccIncludePaths": "...",
   "gccSuppressWarnings": false
-}`
+}
+```
 
 [See PlatformIO IDE for Atom] (http://docs.platformio.org/en/latest/ide/atom.html#ide-atom-knownissues-sclarduino-manually)
