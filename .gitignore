@@ -1,0 +1,14 @@
+# NPM generated files
+*.tgz
+.npmrc
+/node_modules
+/tmp
+/out
+
+.DS_Store
+npm-debug.log
+.coveralls.yml
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json

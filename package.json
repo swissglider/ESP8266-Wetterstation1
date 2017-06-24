@@ -1,0 +1,17 @@
+{
+    "name": "ESP8266-Windsensor",
+    "version": "0.0.1",
+    "description": "Windsensor",
+    "author": "swissglider <npm@mailschweiz.com> (https://github.com/swissglider/ESP8266-Windsensor)",
+    "homepage": "https://github.com/swissglider/ESP8266-Windsensor#readme",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/swissglider/ESP8266-Windsensor.git"
+    },
+    "keywords": ["arduino", "esp8266", "Sensor", "Windsensor", "WifiManager", "OTA"],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/swissglider/ESP8266-Windsensor/issues"
+    }
+}
